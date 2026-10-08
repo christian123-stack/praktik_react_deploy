@@ -1,0 +1,15 @@
+@keyframes kotak {
+  0% {
+   box-shadow:0px 0px 0px #2295c7
+  }
+  50% {
+   box-shadow:-1px -2px 2px #2295c7
+  }
+  75%{
+    box-shadow:-3px -4px 3px #2295c7 ;
+  }
+  100%{
+    box-shadow:-5px -6px 4px #2295c7;
+    background-color: magenta;
+  }
+}
